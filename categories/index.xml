@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 无内鬼，写点东西</title>
-    <link>shawling.github.io/categories/</link>
+    <link>https://shawling.github.io/categories/</link>
     <description>Recent content in Categories on 无内鬼，写点东西</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn-zh</language><atom:link href="shawling.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn-zh</language><atom:link href="https://shawling.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
